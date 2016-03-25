@@ -4,7 +4,7 @@
 - run_analysis.R -> contains the script that tidies the data
 - tidymean.txt -> containing the tidied data output of the script
 
-#### Variables in the Code
+## Variables in the Code
 tBodyAcc-mean()-X(int): Time Body Accelerometer Signal mean value in x direction
 
 tBodyAcc-mean()-Y(int): Time Body Accelerometer Signal mean value in y direction
